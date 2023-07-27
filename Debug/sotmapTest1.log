@@ -1,0 +1,22 @@
+﻿  sotmapTest1.cpp
+C:\Users\evilk\source\repos\sotmapTest1\sotmapTest1\sotmapTest1.cpp(50,56): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\evilk\source\repos\sotmapTest1\sotmapTest1\sotmapTest1.cpp(50,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\evilk\source\repos\sotmapTest1\sotmapTest1\sotmapTest1.cpp(165,46): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\evilk\source\repos\sotmapTest1\sotmapTest1\sotmapTest1.cpp(167,46): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+  sotmapTest1.vcxproj -> C:\Users\evilk\source\repos\sotmapTest1\Debug\sotmapTest1.exe
